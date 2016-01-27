@@ -27,6 +27,8 @@ gem 'ancestry'
 gem 'rails_admin'
 gem 'foundation-rails'
 
+gem 'react-rails'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
