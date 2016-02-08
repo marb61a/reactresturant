@@ -28,6 +28,7 @@ gem 'rails_admin'
 gem 'foundation-rails'
 
 gem 'react-rails'
+gem 'flux-rails-assets'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
