@@ -29,6 +29,7 @@ gem 'foundation-rails'
 
 gem 'react-rails'
 gem 'flux-rails-assets'
+gem 'lodash-rails'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
