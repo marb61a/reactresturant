@@ -26,3 +26,4 @@
 //= require_tree .
 
 $(function(){ $(document).foundation(); });
+System.import('/components/comment_section');
